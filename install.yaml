@@ -1,5 +1,5 @@
 ---
-- hosts: webserver
+- hosts: 172.31.46.235
   become: yes
   gather_facts: yes
 
